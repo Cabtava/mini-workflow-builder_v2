@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blazor.Diagrams
+build_property.RootNamespace = Blazor.Diagrams
+build_property.ProjectDir = C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Controls/ArrowHeadControlWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xBcnJvd0hlYWRDb250cm9sV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Controls/BoundaryControlWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xCb3VuZGFyeUNvbnRyb2xXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Controls/ControlsLayerRenderer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xDb250cm9sc0xheWVyUmVuZGVyZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Controls/DragNewLinkControlWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xEcmFnTmV3TGlua0NvbnRyb2xXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Controls/RemoveControlWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xSZW1vdmVDb250cm9sV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/DefaultGroupWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZWZhdWx0R3JvdXBXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/DefaultLinkLabelWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZWZhdWx0TGlua0xhYmVsV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/DiagramCanvas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFncmFtQ2FudmFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/GroupNodes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHcm91cE5vZGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/LinkWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaW5rV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/NodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/SvgNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdmdOb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Widgets/NavigatorWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXE5hdmlnYXRvcldpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Widgets/SelectionBoxWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXFNlbGVjdGlvbkJveFdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/src/Blazor.Diagrams/Components/Widgets/GridWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEdyaWRXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-11mdzhr600

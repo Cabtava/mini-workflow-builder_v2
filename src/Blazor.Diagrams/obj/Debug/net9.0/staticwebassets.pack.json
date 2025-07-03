@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Z.Blazor.Diagrams.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Z.Blazor.Diagrams.wxhkjam3jz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\default.styles.css",
+      "PackagePath": "staticwebassets\\default.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\default.styles.min.css",
+      "PackagePath": "staticwebassets\\default.styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\script.min.js",
+      "PackagePath": "staticwebassets\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams\\wwwroot\\style.min.css",
+      "PackagePath": "staticwebassets\\style.min.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Z.Blazor.Diagrams.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Z.Blazor.Diagrams.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Z.Blazor.Diagrams.props",
+      "PackagePath": "build\\Z.Blazor.Diagrams.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Z.Blazor.Diagrams.props",
+      "PackagePath": "buildMultiTargeting\\Z.Blazor.Diagrams.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Z.Blazor.Diagrams.props",
+      "PackagePath": "buildTransitive\\Z.Blazor.Diagrams.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Blazor.Diagrams.Algorithms/3.0.3": {
+        "dependencies": {
+          "Z.Blazor.Diagrams.Core": "3.0.3",
+          "Blazor.Diagrams.Core": "3.0.3.0"
+        },
+        "runtime": {
+          "Blazor.Diagrams.Algorithms.dll": {}
+        }
+      },
+      "SvgPathProperties/1.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/SvgPathProperties.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      },
+      "Z.Blazor.Diagrams.Core/3.0.3": {
+        "dependencies": {
+          "SvgPathProperties": "1.1.2"
+        },
+        "runtime": {
+          "Blazor.Diagrams.Core.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      },
+      "Blazor.Diagrams.Core/3.0.3.0": {
+        "runtime": {
+          "Blazor.Diagrams.Core.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blazor.Diagrams.Algorithms/3.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SvgPathProperties/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oqCX5+CxcLfC1lC6gfzOSM+WOmfwn4V7yzMHQfofi+QmYoY+Hq5oye6BgnqhHC+3BSsiadLSOnfYxpcv/enkcw==",
+      "path": "svgpathproperties/1.1.2",
+      "hashPath": "svgpathproperties.1.1.2.nupkg.sha512"
+    },
+    "Z.Blazor.Diagrams.Core/3.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blazor.Diagrams.Core/3.0.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

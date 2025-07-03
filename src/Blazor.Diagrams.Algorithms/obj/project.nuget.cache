@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "t84B1vMwNdw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\Blazor.Diagrams.Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\svgpathproperties\\1.1.2\\svgpathproperties.1.1.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\z.blazor.diagrams.core\\3.0.3\\z.blazor.diagrams.core.3.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

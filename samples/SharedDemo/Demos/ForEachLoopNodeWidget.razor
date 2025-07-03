@@ -1,0 +1,40 @@
+@using Blazor.Diagrams.Core.Models
+@using Microsoft.AspNetCore.Components
+@using SharedDemo.Demos
+
+<div class="for-each-node default-node @(Node.Selected ? "selected" : "")">
+    <div class="icon-container">
+        <img src="_content/SharedDemo/img/loop_icon.svg" class="loop-icon" />
+    </div>
+
+    <div class="port-label top-port">Done</div>
+    <div class="port-label bottom-port">Loop</div>
+
+    @if (Node.GetPort(PortAlignment.Left) is PortModel input)
+    {
+        <PortRenderer Port="input" />
+    }
+
+    @if (Node.GetPort(PortAlignment.Top) is PortModel done)
+    {
+        <PortRenderer Port="done" />
+    }
+
+    @if (Node.GetPort(PortAlignment.Bottom) is PortModel loop)
+    {
+        <PortRenderer Port="loop" />
+    }
+
+    <div class="label-section">
+        <div class="title">@Node.Title</div>
+        <div class="badge">5</div>
+    </div>
+
+    <div class="placeholder-box">
+        <span>Replace me</span>
+    </div>
+</div>
+
+@code {
+    [Parameter] public ForEachLoopNode Node { get; set; }
+}

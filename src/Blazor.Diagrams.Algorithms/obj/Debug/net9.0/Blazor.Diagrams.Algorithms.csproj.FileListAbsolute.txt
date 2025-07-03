@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\bin\Debug\net9.0\Blazor.Diagrams.Algorithms.deps.json
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\bin\Debug\net9.0\Blazor.Diagrams.Algorithms.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\bin\Debug\net9.0\Blazor.Diagrams.Algorithms.pdb
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\bin\Debug\net9.0\Blazor.Diagrams.Core.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\bin\Debug\net9.0\Blazor.Diagrams.Core.pdb
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.AssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.D.DD67FCA9.Up2Date
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\refint\Blazor.Diagrams.Algorithms.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.pdb
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\ref\Blazor.Diagrams.Algorithms.dll

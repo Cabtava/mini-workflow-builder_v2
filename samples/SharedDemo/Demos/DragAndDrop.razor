@@ -1,0 +1,54 @@
+﻿@page "/demos/drag-and-drop"
+@layout DemoLayout
+@inject LayoutData LayoutData
+
+<div class="row h-100 m-0 p-0">
+    <div class="col-1 m-0 p-0">
+        <div class="row vh-100 p-4 no-gutters d-flex flex-col justify-center align-content-between"
+            style="background: #eee; flex-direction: column !important;">
+            <div class="mb-4 w-100">
+                <div class="text-center" draggable="true" @ondragstart="() => OnDragStart(0)">
+                    <div style="pointer-events:none;">
+                        <img class="d-block m-auto" src="_content/SharedDemo/img/start_icon.svg" />
+                        <span>Start</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-4 w-100">
+                <div class="text-center" draggable="true" @ondragstart="() => OnDragStart(2)">
+                    <div style="pointer-events:none;">
+                        <img class="d-block m-auto" src="_content/SharedDemo/img/scope.svg" />
+                        <span>Default</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-4 w-100">
+                <div class="text-center" draggable="true" @ondragstart="() => OnDragStart(1)">
+                    <div style="pointer-events:none;">
+                        <img class="d-block m-auto" src="_content/SharedDemo/img/If_condition_icon.svg" />
+                        <span>If Else</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-4 w-100">
+                <div class="text-center" draggable="true" @ondragstart="() => OnDragStart(3)">
+                    <div style="pointer-events:none;">
+                        <img class="d-block m-auto" src="_content/SharedDemo/img/for_each_icon.svg" />
+                        <span>For Each</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-11 m-0 p-0" ondragover="event.preventDefault();" @ondragover:preventDefault @ondrop="OnDrop">
+        <nav class="navbar p-4 navbar-expand-lg navbar-light bg-light border-bottom">
+            <span>My New Workflow</span>
+        </nav>
+        <CascadingValue Value="_blazorDiagram">
+            <DiagramCanvas></DiagramCanvas>
+        </CascadingValue>
+    </div>
+
+
+</div>

@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SharedDemo
+build_property.RootNamespace = SharedDemo
+build_property.ProjectDir = C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Components/DemoMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZW1vTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Customization.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9taXphdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Algorithms/ReconnectLinksToClosestPorts.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQWxnb3JpdGhtc1xSZWNvbm5lY3RMaW5rc1RvQ2xvc2VzdFBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/BotAnswerWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQm90QW5zd2VyV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomGroup/CustomGroupWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tR3JvdXBcQ3VzdG9tR3JvdXBXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomGroup/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tR3JvdXBcRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomLink/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tTGlua1xEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomLink/ThickLinkWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tTGlua1xUaGlja0xpbmtXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomNode.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tTm9kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomPort/ColoredNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tUG9ydFxDb2xvcmVkTm9kZVdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomPort/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tUG9ydFxEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomSvgGroup/CustomSvgGroupWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tU3ZnR3JvdXBcQ3VzdG9tU3ZnR3JvdXBXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/CustomSvgGroup/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcQ3VzdG9tU3ZnR3JvdXBcRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/DevTests.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRGV2VGVzdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/DragAndDrop.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRHJhZ0FuZERyb3AucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/DynamicInsertions.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRHluYW1pY0luc2VydGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/ForEachLoopNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRm9yRWFjaExvb3BOb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Groups/CustomShortcut.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcR3JvdXBzXEN1c3RvbVNob3J0Y3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Groups/Dynamic.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcR3JvdXBzXER5bmFtaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Groups/Factory.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcR3JvdXBzXEZhY3RvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Groups/Grouping.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcR3JvdXBzXEdyb3VwaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/IfConditionNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcSWZDb25kaXRpb25Ob2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/LabelsDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcTGFiZWxzRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/MarkersDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcTWFya2Vyc0RlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/PathGeneratorsDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcUGF0aEdlbmVyYXRvcnNEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/RoutersDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcUm91dGVyc0RlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/SnappingDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcU25hcHBpbmdEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Links/VerticesDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTGlua3NcVmVydGljZXNEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Locked.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTG9ja2VkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Nodes/PortlessLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTm9kZXNcUG9ydGxlc3NMaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Nodes/RoundedNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTm9kZXNcUm91bmRlZE5vZGVXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Nodes/SvgDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTm9kZXNcU3ZnRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Nodes/SvgNodeWidget copy.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTm9kZXNcU3ZnTm9kZVdpZGdldCBjb3B5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Nodes/SvgNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcTm9kZXNcU3ZnTm9kZVdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Performance.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcUGVyZm9ybWFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Simple.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU2ltcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/SnapToGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU25hcFRvR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/StartNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU3RhcnROb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/ZoomToFit.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcWm9vbVRvRml0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = SG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Layouts/DemoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xEZW1vTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Layouts/DocsLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xEb2NzTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Layouts/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xFbXB0eUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Options.razor]
+build_metadata.AdditionalFiles.TargetPath = T3B0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/QuickStart.razor]
+build_metadata.AdditionalFiles.TargetPath = UXVpY2tTdGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

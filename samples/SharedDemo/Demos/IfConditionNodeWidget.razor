@@ -1,0 +1,36 @@
+@using Blazor.Diagrams.Core.Models
+@using Microsoft.AspNetCore.Components
+@using SharedDemo.Demos
+
+<div class="custom-node-top-container">
+    <div class="if-node-wrapper default-node @(Node.Selected ? "selected" : "")">
+        <div class="if-node-circle">
+            <img class="if-node-icon" src="_content/SharedDemo/img/if_condition_icon.svg" />
+
+            <div class="port-label top-port">True</div>
+            <div class="port-label bottom-port">False</div>
+
+            <PortRenderer Port="Node.GetPort(PortAlignment.Left)"
+                style="top: 109%; left: 135%; z-index: -1; rotate: 180deg;">
+                <circle cx="0" cy="50" r="200" fill="blue" />
+            </PortRenderer>
+
+            @* <PortRenderer Port="Node.GetPort(PortAlignment.Bottom)" style="top: 7%; right: 32%; z-index: -1;">
+                <circle cx="0" cy="50" r="200" fill="red" />
+            </PortRenderer> *@
+
+            <PortRenderer Port="Node.GetPort(PortAlignment.Right)" style="top: -8%; right: -32%; z-index: -1;">
+                <circle cx=" 100" cy="50" r="6" fill="green" />
+            </PortRenderer>
+        </div>
+
+        <div class="if-node-labels">
+            <div class="if-title">@Node.Title</div>
+            <div class="if-subtitle">@Node.Subtitle</div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter] public IfConditionNode Node { get; set; }
+}

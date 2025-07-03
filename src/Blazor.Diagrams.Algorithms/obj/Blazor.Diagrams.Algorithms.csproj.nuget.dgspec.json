@@ -1,0 +1,532 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\Blazor.Diagrams.Algorithms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\Blazor.Diagrams.Algorithms.csproj": {
+      "version": "3.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\Blazor.Diagrams.Algorithms.csproj",
+        "projectName": "Z.Blazor.Diagrams.Algorithms",
+        "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\Blazor.Diagrams.Algorithms.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net7.0",
+          "net8.0",
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj"
+              }
+            }
+          },
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj"
+              }
+            }
+          },
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj"
+              }
+            }
+          },
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "6.0.25",
+            "Microsoft.AspNetCore.Components.Web": "6.0.25",
+            "Microsoft.AspNetCore.Components.WebAssembly": "6.0.25",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "6.0.25",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "7.0.14",
+            "Microsoft.AspNetCore.Components.Web": "7.0.14",
+            "Microsoft.AspNetCore.Components.WebAssembly": "7.0.14",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "7.0.14",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        },
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "[8, 9.0.0)",
+            "Microsoft.AspNetCore.Components.Web": "[8, 9.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly": "[8,9.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "[8,9.0.0)",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.Web": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "[9, 10.0.0)",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj": {
+      "version": "3.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj",
+        "projectName": "Z.Blazor.Diagrams.Core",
+        "projectPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\Blazor.Diagrams.Core.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Blazor.Diagrams-develop\\src\\Blazor.Diagrams.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net7.0",
+          "net8.0",
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          },
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          },
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          },
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SvgPathProperties": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "6.0.25",
+            "Microsoft.AspNetCore.Components.Web": "6.0.25",
+            "Microsoft.AspNetCore.Components.WebAssembly": "6.0.25",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "6.0.25",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SvgPathProperties": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "7.0.14",
+            "Microsoft.AspNetCore.Components.Web": "7.0.14",
+            "Microsoft.AspNetCore.Components.WebAssembly": "7.0.14",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "7.0.14",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        },
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SvgPathProperties": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "[8, 9.0.0)",
+            "Microsoft.AspNetCore.Components.Web": "[8, 9.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly": "[8,9.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "[8,9.0.0)",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "SvgPathProperties": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "bunit": "1.36.0",
+            "coverlet.collector": "6.0.0",
+            "FluentAssertions": "6.12.0",
+            "GraphShape": "1.2.1",
+            "MatBlazor": "2.10.0",
+            "Microsoft.AspNetCore.Components": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.Web": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly": "[9, 10.0.0)",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "[9, 10.0.0)",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Moq": "[4.18.4]",
+            "SvgPathProperties": "1.1.2",
+            "System.Net.Http": "4.3.4",
+            "System.Net.Http.Json": "9.0.0",
+            "System.Text.RegularExpressions": "4.3.1",
+            "xunit": "2.6.3",
+            "xunit.runner.visualstudio": "2.5.5"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

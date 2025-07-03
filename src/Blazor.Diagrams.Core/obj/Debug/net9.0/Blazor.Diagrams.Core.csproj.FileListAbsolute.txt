@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\bin\Debug\net9.0\Blazor.Diagrams.Core.deps.json
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\bin\Debug\net9.0\Blazor.Diagrams.Core.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\bin\Debug\net9.0\Blazor.Diagrams.Core.pdb
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\refint\Blazor.Diagrams.Core.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.pdb
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\ref\Blazor.Diagrams.Core.dll

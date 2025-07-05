@@ -1,15 +1,10 @@
-@using SharedDemo.Demos
-@using Microsoft.AspNetCore.Components
 @using Blazor.Diagrams.Core.Models
-@using Blazor.Diagrams.Components
+@using Microsoft.AspNetCore.Components
+@using SharedDemo.Demos
 
 <div class="custom-node-top-container">
-    <div class="start-node-wrapper default-node @(Node.Selected ? "selected" : "")" @onclick="() => OpenDrawer(Node)">
+    <div class="start-node-wrapper default-node @(Node.Selected ? "selected" : "")" @onclick="ToggleDrawer">
         <div class="start-circle">
-            <PortRenderer Port="Node.GetPort(PortAlignment.Left)" style="display: none;">
-                <circle cx="0" cy="50" r="6" fill="blue" />
-            </PortRenderer>
-
             <PortRenderer Port="Node.GetPort(PortAlignment.Right)">
                 <circle cx="100" cy="50" r="6" fill="green" />
             </PortRenderer>
@@ -17,6 +12,8 @@
             <div class="start-icon">
                 <img src="_content/SharedDemo/img/start_icon.svg" />
             </div>
+
+            <i class="fa-solid fa-user" style="color: #b0b0b0;"></i>
         </div>
 
         <div class="start-labels">
@@ -26,43 +23,30 @@
     </div>
 </div>
 
-@if (DrawerOpen)
+@if (IsDrawerOpen)
 {
-    <div class="fixed inset-0 z-50 pointer-events-none">
-        <div class="absolute inset-0 bg-black bg-opacity-30 transition-opacity duration-300"
-            style="opacity:@(DrawerOpen ? "1" : "0"); pointer-events:@(DrawerOpen ? "auto" : "none")"
-            @onclick="() => DrawerOpen = false">
-        </div>
-        <div class="absolute p-2 top-0 right-0 h-full w-96 bg-white shadow-lg border-l border-gray-300 transition-transform duration-300 transform"
-            style="transform: translateX(@(DrawerOpen ? "0" : "100%")); pointer-events: auto;">
-            <div class="p-6 h-full flex flex-col">
-                <h3 class="text-lg font-semibold mb-4">Edit Node</h3>
-                <div class="mb-4">
-                    <label class="block text-sm font-medium text-gray-700">Title</label>
-                    <input class="w-full p-2 border rounded" @bind="Node.Title" />
-                </div>
-                <div class="mb-4">
-                    <label class="block text-sm font-medium text-gray-700">Subtitle</label>
-                    <input class="w-full p-2 border rounded" @bind="Node.Subtitle" />
-                </div>
-                <button style="border: none; background-color: red;"
-                    class="mt-auto text-white px-4 py-2 rounded border-none" @onclick="() => DrawerOpen = false">
-                    Close
-                </button>
+    <div class="drawer-overlay">
+        <div class="drawer-content">
+            <h5 class="mb-3">Edit Node</h5>
+            <div class="mb-3">
+                <label>Title</label>
+                <input class="form-control" @bind="Node.Title" />
             </div>
+            <div class="mb-3">
+                <label>Subtitle</label>
+                <input class="form-control" @bind="Node.Subtitle" />
+            </div>
+            <button class="btn btn-danger mt-4" @onclick="() => IsDrawerOpen = false">Close</button>
         </div>
     </div>
-
 }
 
 @code {
-    [Parameter]
-    public StartNode Node { get; set; }
+    [Parameter] public StartNode Node { get; set; } = default!;
+    private bool IsDrawerOpen = false;
 
-    private bool DrawerOpen = false;
-
-    private void OpenDrawer(StartNode node)
+    private void ToggleDrawer()
     {
-        DrawerOpen = true;
+        IsDrawerOpen = !IsDrawerOpen;
     }
 }

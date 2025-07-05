@@ -9,17 +9,19 @@ public partial class DragAndDrop
     private readonly BlazorDiagram _blazorDiagram = new BlazorDiagram();
     private int? _draggedType;
 
+    private NodeModel? SelectedNode;
+
     protected override void OnInitialized()
     {
         base.OnInitialized();
-
-        // LayoutData.Title = "Drag & Drop";
-        // LayoutData.Info = "A very simple drag & drop implementation using the HTML5 events.";
         LayoutData.DataChanged();
 
         _blazorDiagram.RegisterComponent<StartNode, StartNodeWidget>();
         _blazorDiagram.RegisterComponent<IfConditionNode, IfConditionNodeWidget>();
+        _blazorDiagram.RegisterComponent<ScopeNode, ScopeNodeWidget>();
+        _blazorDiagram.RegisterComponent<SwitchNode, SwitchNodeWidget>();
         _blazorDiagram.RegisterComponent<ForEachLoopNode, ForEachLoopNodeWidget>();
+        _blazorDiagram.RegisterComponent<EndNode, EndNodeWidget>();
 
     }
 
@@ -39,18 +41,22 @@ public partial class DragAndDrop
         {
             0 => new StartNode(position),
             1 => new IfConditionNode(position),
-            2 => new BotAnswerNode(position),
+            2 => new ScopeNode(position),
             3 => new ForEachLoopNode(position),
+            4 => new EndNode(position),
+            5 => new SwitchNode(position),
         };
 
-        // ✅ Add 1 input and 1 output port
-        node.AddPort(PortAlignment.Left);  // input
-        node.AddPort(PortAlignment.Right); // output
+        node.AddPort(PortAlignment.Left);
+        node.AddPort(PortAlignment.Right);
 
         _blazorDiagram.Nodes.Add(node);
         _draggedType = null;
     }
-
+    private void HandleNodeClicked(NodeModel node)
+    {
+        SelectedNode = node;
+    }
 }
 
 

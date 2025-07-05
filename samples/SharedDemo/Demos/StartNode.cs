@@ -5,15 +5,10 @@ namespace SharedDemo.Demos;
 
 public class StartNode : NodeModel
 {
-    public string Title { get; set; } = "Title";
-    public string Subtitle { get; set; } = "Subtitle";
-
-    // Add this for storing uploaded image
-    public string? ImageDataUrl { get; set; }
-
-    public StartNode(Point position) : base(position)
+    public StartNode(Point position = null) : base(position)
     {
-        AddPort(PortAlignment.Right);
-        AddPort(PortAlignment.Left);
     }
+
+    public string Title { get; set; } = "Start";
+    public string Subtitle { get; set; } = "Initial step";
 }

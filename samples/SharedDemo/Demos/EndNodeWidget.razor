@@ -1,0 +1,32 @@
+@using SharedDemo.Demos
+@using Microsoft.AspNetCore.Components
+@using Blazor.Diagrams.Core.Models
+@using Blazor.Diagrams.Components
+
+<div class="custom-node-top-container">
+    <div class="start-node-wrapper default-node @(Node.Selected ? "selected" : "")">
+        <div class="start-circle">
+            <PortRenderer Port="Node.GetPort(PortAlignment.Left)">
+                <circle cx="0" cy="50" r="6" fill="blue" />
+            </PortRenderer>
+
+            <div class="end-icon">
+                <i class="fa-solid fa-flag-checkered" style="color: #00b2e4;"></i>
+            </div>
+
+            <i class="fa-solid fa-user" style="color: #b0b0b0;"></i>
+        </div>
+
+        <div class="start-labels">
+            <div class="start-title">@Node.Title</div>
+            <div class="start-subtitle">@Node.Subtitle</div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public EndNode Node { get; set; }
+
+}

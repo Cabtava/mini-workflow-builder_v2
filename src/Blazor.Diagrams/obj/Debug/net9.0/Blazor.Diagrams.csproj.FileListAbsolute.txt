@@ -17,7 +17,6 @@ C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\scopedcss\Components\Widgets\GridWidget.razor.rz.scp.css
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\scopedcss\bundle\Z.Blazor.Diagrams.styles.css
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\scopedcss\projectbundle\Z.Blazor.Diagrams.bundle.scp.css
-C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\compressed\8444umeufy-9tb2uy8qwd.gz
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\compressed\2jdcekzucn-6pwzqlbbfs.gz
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\compressed\6ox0u8yf04-sskjx8yck0.gz
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\compressed\xbbnlhu4ft-u872bpsf3j.gz
@@ -40,3 +39,5 @@ C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\refint\Blazor.Diagrams.dll
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\Blazor.Diagrams.pdb
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\ref\Blazor.Diagrams.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\Blazor.Diagrams.sourcelink.json
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams\obj\Debug\net9.0\compressed\8444umeufy-2j2pk3f6hj.gz

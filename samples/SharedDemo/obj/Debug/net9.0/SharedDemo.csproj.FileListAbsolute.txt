@@ -2099,4 +2099,5 @@ C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.
 C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\compressed\b07atoknuz-s7tq7yvx13.gz
 C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\compressed\1642msbidv-v8yryou3iz.gz
 C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\compressed\4qekxw1c0z-ne3p53ra3r.gz
-C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\compressed\wuwblgwdve-htjrm2skec.gz
+C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\SharedDemo.sourcelink.json
+C:\Users\user\Desktop\Blazor.Diagrams-develop\samples\SharedDemo\obj\Debug\net9.0\compressed\wuwblgwdve-cqdi25anw6.gz

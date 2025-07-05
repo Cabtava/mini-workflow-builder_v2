@@ -84,6 +84,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRHluYW1pY0luc2VydGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/EndNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRW5kTm9kZVdpZGdldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Events.razor]
 build_metadata.AdditionalFiles.TargetPath = RGVtb3NcRXZlbnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -164,6 +168,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RGVtb3NcUGVyZm9ybWFuY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/ScopeNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU2NvcGVOb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/Simple.razor]
 build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU2ltcGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -174,6 +182,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/StartNodeWidget.razor]
 build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU3RhcnROb2RlV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/SwitchNodeWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = RGVtb3NcU3dpdGNoTm9kZVdpZGdldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Desktop/Blazor.Diagrams-develop/samples/SharedDemo/Demos/ZoomToFit.razor]

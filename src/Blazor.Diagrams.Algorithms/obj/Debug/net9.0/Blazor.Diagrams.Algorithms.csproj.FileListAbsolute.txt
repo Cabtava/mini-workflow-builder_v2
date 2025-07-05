@@ -13,3 +13,4 @@ C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\refint\Blazor.Diagrams.Algorithms.dll
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.pdb
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\ref\Blazor.Diagrams.Algorithms.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Algorithms\obj\Debug\net9.0\Blazor.Diagrams.Algorithms.sourcelink.json

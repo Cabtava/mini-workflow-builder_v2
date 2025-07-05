@@ -9,7 +9,7 @@
      @onpointermove:preventDefault
      @onwheel:stopPropagation>
 
-    <svg class="diagram-svg-layer" style="@GetLayerStyle(BlazorDiagram.Options.LinksLayerOrder)">
+    <svg class="diagram-svg-layer" style="@GetLayerStyle(BlazorDiagram.Options.LinksLayerOrder); transform: unset !important">
 
         @foreach (var model in BlazorDiagram.OrderedSelectables)
         {
@@ -32,7 +32,7 @@
         @AdditionalSvg
     </svg>
 
-    <div class="diagram-html-layer" style="@GetLayerStyle(BlazorDiagram.Options.NodesLayerOrder)">
+    <div class="diagram-html-layer" style="@GetLayerStyle(BlazorDiagram.Options.NodesLayerOrder); transform: unset !important">
 
         @foreach (var model in BlazorDiagram.OrderedSelectables)
         {

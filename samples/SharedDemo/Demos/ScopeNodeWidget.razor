@@ -1,0 +1,54 @@
+@using SharedDemo.Demos
+@using Microsoft.AspNetCore.Components
+@using Blazor.Diagrams.Core.Models
+@using Blazor.Diagrams.Components
+
+<div class="custom-node-top-container">
+    <div class="start-node-wrapper default-node @(Node.Selected ? "selected" : "")">
+        <div class=" start-circle">
+            <PortRenderer Port="Node.GetPort(PortAlignment.Left)">
+                <circle cx="0" cy="50" r="6" fill="blue" />
+            </PortRenderer>
+
+            <PortRenderer Port="Node.GetPort(PortAlignment.Right)">
+                <circle cx="100" cy="50" r="6" fill="green" />
+            </PortRenderer>
+            <i class="fa-solid fa-user" style="color: #b0b0b0;"></i>
+        </div>
+
+        @* <div class="scope-node-line"></div> *@
+
+        @* <div class="scope-node-plus">
+            <div class="plus-circle">
+                <i class="fa-solid fa-plus plus-icon" @onclick="HandlePlusClicked"
+                    style="color: #80828D; cursor: pointer;"></i>
+            </div>
+        </div> *@
+
+        <div class="start-labels">
+            <div class="start-title">@Node.Title</div>
+            <div class="start-subtitle">@Node.Subtitle</div>
+        </div>
+    </div>
+
+</div>
+@code {
+    [Parameter] public ScopeNode Node { get; set; }
+
+    [Parameter] public EventCallback<ScopeNode> OnAddNode { get; set; }
+
+    private async Task HandlePlusClicked()
+    {
+        // Slight offset to avoid overlap
+        var newPosition = new Point(Node.Position.X + 150, Node.Position.Y);
+        var newNode = new ScopeNode(newPosition)
+        {
+            Title = "Title",
+            Subtitle = "Subtitle"
+        };
+
+        await OnAddNode.InvokeAsync(newNode);
+    }
+
+
+}

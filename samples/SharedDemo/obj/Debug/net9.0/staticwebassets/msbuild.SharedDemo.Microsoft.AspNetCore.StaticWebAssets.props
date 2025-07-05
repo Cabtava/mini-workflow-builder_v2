@@ -12,12 +12,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>htjrm2skec</Fingerprint>
-      <Integrity>FXttn+AnrshLeTjiYWf8H2lKE/DmDu5rx53qKLusDc0=</Integrity>
+      <Fingerprint>cqdi25anw6</Fingerprint>
+      <Integrity>/BMEbfaa5+G3wMYHdkqWOvvG43qnmFNyPSNESmJlL5A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>36001</FileLength>
-      <LastWriteTime>Thu, 03 Jul 2025 21:27:40 GMT</LastWriteTime>
+      <FileLength>39095</FileLength>
+      <LastWriteTime>Sat, 05 Jul 2025 04:24:41 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fontawesome\css\all.css'))">

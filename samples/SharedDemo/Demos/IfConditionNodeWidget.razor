@@ -10,18 +10,22 @@
             <div class="port-label top-port">True</div>
             <div class="port-label bottom-port">False</div>
 
-            <PortRenderer Port="Node.GetPort(PortAlignment.Left)"
-                style="top: 109%; left: 135%; z-index: -1; rotate: 180deg;">
-                <circle cx="0" cy="50" r="200" fill="blue" />
+            <!-- Input port on the left -->
+            <PortRenderer Port="Node.InputPort"
+                style="position: absolute; top: 66%; left: -3px; transform: translateY(-50%);">
+                <circle cx="0" cy="0" r="6" fill="black" />
             </PortRenderer>
 
-            @* <PortRenderer Port="Node.GetPort(PortAlignment.Bottom)" style="top: 7%; right: 32%; z-index: -1;">
-                <circle cx="0" cy="50" r="200" fill="red" />
-            </PortRenderer> *@
-
-            <PortRenderer Port="Node.GetPort(PortAlignment.Right)" style="top: -8%; right: -32%; z-index: -1;">
-                <circle cx=" 100" cy="50" r="6" fill="green" />
+            <!-- True port top-right -->
+            <PortRenderer Port="Node.TruePort" style="position: absolute; top: 26%; right: 5px;">
+                <circle cx="0" cy="0" r="6" fill="green" />
             </PortRenderer>
+
+            <!-- False port bottom-right -->
+            <PortRenderer Port="Node.FalsePort" style="position: absolute; top: 72%; right: 6px;">
+                <circle cx="0" cy="0" r="6" fill="red" />
+            </PortRenderer>
+
         </div>
 
         <div class="if-node-labels">

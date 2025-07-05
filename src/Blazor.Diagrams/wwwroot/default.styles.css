@@ -38,7 +38,7 @@
     }
 
     .default-node .diagram-port:hover, .default-node .diagram-port.has-links, .default.diagram-group .diagram-port.has-links {
-        background-color: black;
+        background-color: #ffffff;
     }
 
     .default-node .diagram-port.bottom, .default.diagram-group .diagram-port.bottom {

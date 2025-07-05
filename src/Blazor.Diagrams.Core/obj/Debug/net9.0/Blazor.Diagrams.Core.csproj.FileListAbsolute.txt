@@ -10,3 +10,4 @@ C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\refint\Blazor.Diagrams.Core.dll
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.pdb
 C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\ref\Blazor.Diagrams.Core.dll
+C:\Users\user\Desktop\Blazor.Diagrams-develop\src\Blazor.Diagrams.Core\obj\Debug\net9.0\Blazor.Diagrams.Core.sourcelink.json

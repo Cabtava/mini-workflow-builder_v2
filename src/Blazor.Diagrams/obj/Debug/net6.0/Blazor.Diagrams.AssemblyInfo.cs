@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A fully customizable and extensible all-purpose diagrams library for Blazor")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.0.3")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.3+36a5892c274843c67964ab2f54837cec77630e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.3+471e5e42cb12d05b964abc2ac23e52d47286b374")]
 [assembly: System.Reflection.AssemblyProductAttribute("Z.Blazor.Diagrams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor.Diagrams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.0.3")]

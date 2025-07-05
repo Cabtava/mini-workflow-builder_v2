@@ -39,6 +39,6 @@ Users can drag nodes (such as Start, If/Else, Switch, End, etc.) onto the canvas
 2. Navigate to the sample folder (if using `SharedDemo`):
 
 ```bash
-cd samples/SharedDemo
+cd samples/Wasm
 dotnet run
 ```
